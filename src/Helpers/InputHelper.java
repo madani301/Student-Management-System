@@ -1,5 +1,5 @@
 /**
- * 
+* 
 *InputHelper allows user to input data & handles potential errors from the user.
 */
 package Helpers;
